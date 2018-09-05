@@ -1,4 +1,4 @@
-
+// code non testé à cause de l'impossibilité d'installer Node.js et Express
 
 // affichage du tableau des livres
 app.get('/livre', function (request, response) {
